@@ -31,7 +31,7 @@
     "@takumi-rs/core": "^2.10.0",
     "@vueuse/nuxt": "14.4.0",
     "dayjs-nuxt": "2.1.11",
-    "nuxt": "4.5.2",
+    "nuxt": "4.6.2",
     "nuxt-echarts": "^1.0.1",
     "nuxt-maplibre": "1.2.2",
     "nuxt-open-fetch": "0.13.9",
