@@ -39,7 +39,7 @@
     "party-js": "2.2.0",
     "rehype-katex": "7.0.1",
     "remark-math": "6.0.0",
-    "zod": "4.4.3"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@antfu/eslint-config": "9.3.0",
